@@ -1,0 +1,5 @@
+streamlit
+numpy
+filterpy
+opencv-python-headless
+ultralytics
